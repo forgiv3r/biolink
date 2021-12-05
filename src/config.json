@@ -1,0 +1,43 @@
+{
+  "name": "Dzargo - Look Simple, Stay Humble ",
+  "description": "Selamat Datang :)",
+  "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP00i7CDDPv5Wuq-kA4kejsRpEPSz6TWGpnQ&usqp=CAU",
+  "biolinkUrl": "https://bio.dzargo.id",
+  "theme": "dark",
+  "links": [
+    {
+      "text": "Belanja di Shopee",
+      "url": "https://shopee.co.id/dzargoid"
+    },
+    {
+      "text": "Belanja di Tokopedia",
+      "url": "https://www.tokopedia.com/dzargoofficial"
+    },
+    {
+      "text": "Belanja di Lazada",
+      "url": "https://www.lazada.co.id/shop/dzargoid"
+    },
+    {
+      "text": "Belanja di Official Store",
+      "url": "https://shop.dzargo.id"
+    },
+    {
+      "text": "Kunjungi Blog Dzargo",
+      "url": "https://blog.dzargo.id"
+    }
+  ],
+  "social": [
+    {
+      "icon": "faInstagram",
+      "url": "https://instagram.com/dzargoid"
+    },
+    {
+      "icon": "faLinkedin",
+      "url": "https://www.linkedin.com/company/dzargoindonesia"
+    },
+    {
+      "icon": "faYoutube",
+      "url": "https://www.youtube.com/watch?v=pUTOnzN7I1s"
+    }
+  ]
+}
