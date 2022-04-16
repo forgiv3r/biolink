@@ -1,8 +1,8 @@
 {
-  "name": "Dzargo - Look Simple, Stay Humble ",
-  "description": "Selamat Datang :)",
+  "name": "Stay Simple, Stay Cool",
+  "description": "Mau Belanja Dimana? :)",
   "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP00i7CDDPv5Wuq-kA4kejsRpEPSz6TWGpnQ&usqp=CAU",
-  "biolinkUrl": "https://bio.dzargo.id",
+  "biolinkUrl": "https://bio.akmalalajial.dev",
   "theme": "dark",
   "links": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.lazada.co.id/shop/dzargoid"
     },
     {
-      "text": "Hubungi di Whatsapp",
+      "text": "Hubungi kami di Whatsapp",
       "url": "https://wa.me/6282144286034?text=Hai%20dzargo:)"
     }
   ],
