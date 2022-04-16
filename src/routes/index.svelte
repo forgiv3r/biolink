@@ -80,7 +80,7 @@
     </section>
     <section>
       <p class="text-xs opacity-70 mt-6">Made with ❤️ by
-        <a href="https://dzargo.id" class="link">Dzargo</a
+        <a href="https://akmalalajial.dev/" class="link">Akmal Al Ajial</a
         >
       </p>
     </section>
